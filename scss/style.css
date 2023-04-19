@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #181818;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #bd43df;
+  font-size: 2.5rem;
+  text-decoration: underline;
+}
+
+button {
+  background-color: #d33785;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+button:hover {
+  background-color: #bd43df;
+}
+
+#results {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  color: white;
+}
+
+.verb {
+  color: red;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */
